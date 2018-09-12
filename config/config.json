@@ -1,0 +1,7 @@
+{
+    "host": "ec2-18-222-216-219.us-east-2.compute.amazonaws.com",
+    "port": 3306,
+    "user": "mysql_dev",
+    "password": "dev@123",
+    "database": "QrScan"
+}
